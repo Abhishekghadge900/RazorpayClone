@@ -21,7 +21,7 @@ Follow these steps to set up the project locally:
    git clone https://github.com/your-username/razorpay-clone.git
    cd razorpay-clone
 2.Install Dependencies: Ensure you have Node.js installed on your system. Then, run:
-    npm install
+    ```npm install
 3.Start the Development Server: Use the following command to start the development server:
-    npm run start
+    ```npm run start
 4.Open in Browser: Open your browser and navigate to http://localhost:5173 to view the project.
